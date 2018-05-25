@@ -1,0 +1,6 @@
+This is were you will find the different scripts.
+Go to the root ReadMe file for infos.
+
+The main script is 'alternative_stable_states.R'.
+Some of the packages loaded in 'package.R' are probably not useful anymore, and I need to clean that. packrat does this but it wouldn't work when I tried it.
+The 'prepare_datasets.R' script is just a suggestion and a backup of some analyses I do on every new core.
